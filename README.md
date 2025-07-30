@@ -4,7 +4,3 @@
 
 
 ![Skin of game](/docs/skin.png)
-## Tasks:
-- [x] Create console game
-- [ ] Fix issues
-- [ ] Create final tag version
