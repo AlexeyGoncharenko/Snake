@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 /// <summary>
 /// Author: Alexey Goncharenko (github: @AlexeyGoncharenko)
-/// Date:   the 5th of August 2018
+/// Date:   the 5th of August 2019
 /// Title:  Console Game: Snake
-/// Description: That's the game that originates the whole decades ago.
 /// </summary>
 
 namespace SnakeGame {
